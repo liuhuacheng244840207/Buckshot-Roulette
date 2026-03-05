@@ -1,0 +1,39 @@
+﻿  源.cpp
+C:\Users\pc\Desktop\恶魔轮盘赌v3.6\源.cpp(438,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\pc\Desktop\恶魔轮盘赌v3.6\源.cpp(1292,17): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\pc\Desktop\恶魔轮盘赌v3.6\源.cpp(1293,17): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\pc\Desktop\恶魔轮盘赌v3.6\源.cpp(1299,17): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\pc\Desktop\恶魔轮盘赌v3.6\源.cpp(1300,17): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\pc\Desktop\恶魔轮盘赌v3.6\源.cpp(1306,17): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\pc\Desktop\恶魔轮盘赌v3.6\源.cpp(1307,17): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\pc\Desktop\恶魔轮盘赌v3.6\源.cpp(1313,17): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\pc\Desktop\恶魔轮盘赌v3.6\源.cpp(1314,17): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\pc\Desktop\恶魔轮盘赌v3.6\源.cpp(1375,57): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\pc\Desktop\恶魔轮盘赌v3.6\源.cpp(1379,28): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\pc\Desktop\恶魔轮盘赌v3.6\源.cpp(1383,58): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\pc\Desktop\恶魔轮盘赌v3.6\源.cpp(1387,28): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\pc\Desktop\恶魔轮盘赌v3.6\源.cpp(1391,57): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\pc\Desktop\恶魔轮盘赌v3.6\源.cpp(1395,28): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\pc\Desktop\恶魔轮盘赌v3.6\源.cpp(1399,58): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\pc\Desktop\恶魔轮盘赌v3.6\源.cpp(1403,28): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\pc\Desktop\恶魔轮盘赌v3.6\源.cpp(1416,56): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\pc\Desktop\恶魔轮盘赌v3.6\源.cpp(1422,28): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\pc\Desktop\恶魔轮盘赌v3.6\源.cpp(1428,57): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\pc\Desktop\恶魔轮盘赌v3.6\源.cpp(1434,28): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\pc\Desktop\恶魔轮盘赌v3.6\源.cpp(1440,56): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\pc\Desktop\恶魔轮盘赌v3.6\源.cpp(1446,28): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\pc\Desktop\恶魔轮盘赌v3.6\源.cpp(1452,57): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\pc\Desktop\恶魔轮盘赌v3.6\源.cpp(1458,28): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\pc\Desktop\恶魔轮盘赌v3.6\源.cpp(1482,64): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\pc\Desktop\恶魔轮盘赌v3.6\源.cpp(1482,48): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\pc\Desktop\恶魔轮盘赌v3.6\源.cpp(1482,31): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\pc\Desktop\恶魔轮盘赌v3.6\源.cpp(1490,64): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\pc\Desktop\恶魔轮盘赌v3.6\源.cpp(1490,48): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\pc\Desktop\恶魔轮盘赌v3.6\源.cpp(1490,31): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\pc\Desktop\恶魔轮盘赌v3.6\源.cpp(1509,63): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\pc\Desktop\恶魔轮盘赌v3.6\源.cpp(1509,47): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\pc\Desktop\恶魔轮盘赌v3.6\源.cpp(1509,30): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\pc\Desktop\恶魔轮盘赌v3.6\源.cpp(1516,77): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\pc\Desktop\恶魔轮盘赌v3.6\源.cpp(1516,61): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\pc\Desktop\恶魔轮盘赌v3.6\源.cpp(1516,44): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  Buckshot Roulette.vcxproj -> C:\Users\pc\Desktop\恶魔轮盘赌v3.6\x64\Debug\Buckshot Roulette.exe
