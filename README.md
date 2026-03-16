@@ -98,3 +98,11 @@
    ```bash
    # MinGW示例
    gcc game.c -o buckshot_roulette -leasyx -lgdi32 -lole32 -luuid -lwinmm -std=c99
+   ## 二、关键文件
+
+1.  **项目入口：五子棋.sln**
+    这是 Visual Studio 的解决方案文件，双击即可在 Visual Studio中打开整个项目
+    但是想要在Visual Studio中运行，需要配置EasyX图形库
+3.  **编译结果：五子棋.exe**
+    项目编译后生成的可执行文件，路径：x64->release->五子棋.exe
+    直接双击即可运行散弹枪轮盘赌游戏（无需打开 Visual Studio）。
